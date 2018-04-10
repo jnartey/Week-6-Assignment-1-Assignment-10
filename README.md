@@ -1,5 +1,5 @@
 # Assignment-10-week-6-assignment-1
-#Note: There are 2 versions of this assignment, the String version and generic version which takes any data type object
+#Note: There are 2 versions of this assignment, the string version and generic version which takes any data type object
 1. Starting Small
 Write a Java program to create a new ArrayList of strings.
 Add some colors (string) and print out the collection.
